@@ -1,0 +1,4 @@
+# 排除一切，只保留 README（仓库仅作文档与 Release 发布用途，不上传源码）
+*
+!README.md
+!.gitignore
