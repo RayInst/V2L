@@ -33,7 +33,7 @@
 
 - 未激活：单次运行提供 **30 分钟实时模式试用**，期间激光输出每隔 10 秒叠加 2 秒 `DEMO` 字样；试用版不包含离线同步、离线烘焙、ILDA 导出与 `.v2lcache` 导入。
 - 激活：点击顶部「载入」后的授权按钮，粘贴 `V2L-` 激活码联网激活，或导入离线 `license.dat`；授权绑定本机硬件特征码，可联网解绑换机。
-- 购买授权请访问 **[www.r1gy.com](https://www.r1gy.com)**。
+- 购买授权请访问 **[r1gy.com/product/V2L](https://r1gy.com/product/V2L)**。
 
 ### 版本更新
 
@@ -76,7 +76,7 @@ The package already bundles `BEYONDIO.dll`, the NDI runtime, portable FFmpeg and
 
 - Unlicensed: each launch offers a **30-minute Realtime trial**, with a 2-second `DEMO` laser watermark every 10 seconds. The trial excludes Offline Sync, offline baking, ILDA export and `.v2lcache` import.
 - Activation: click the license button after "Load", paste a `V2L-` code to activate online, or import an offline `license.dat`. Licenses are bound to your hardware ID and can be released online to move machines.
-- Purchase licenses at **[www.r1gy.com](https://www.r1gy.com)**.
+- Purchase licenses at **[r1gy.com/product/V2L](https://r1gy.com/product/V2L)**.
 
 ### Updates
 
